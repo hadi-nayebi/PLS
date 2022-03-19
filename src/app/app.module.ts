@@ -17,6 +17,7 @@ import { StageComponent } from './components/pls/stage/stage.component';
 import { RouterModule } from '@angular/router';
 import { AdminComponent } from './components/admin/admin/admin.component';
 import { LoginComponent } from './components/login/login.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -30,6 +31,7 @@ import { LoginComponent } from './components/login/login.component';
     PlsComponent,
     SidebarComponent,
     StageComponent,
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
