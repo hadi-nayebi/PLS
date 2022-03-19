@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "proteinlatentspace": {
+      "hosting": {
+        "PLS": [
+          "proteinlatentspace"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "proteinlatentspace"
+  }
+}
